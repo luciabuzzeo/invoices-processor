@@ -1,6 +1,6 @@
 # invoices-processor
 
-It is based on a program, written in python language, which is called "Invoices Processor" and has the potential to autocomplete an excel file by extracting certain data from individual invoices in PDF files. This innovation saves a lot of time previously spent processing PDF files manually one by one.
+It is based on a program, written in python language, which is called "Invoices Processor" and has the potential to autocomplete an excel file by extracting certain data from individual invoices in PDF files. 
 
 I structured the solution in three parts: 
 
